@@ -1,2 +1,2 @@
 # susy-optimization
-Producing realizations of supersymmetry through optimization via optimization
+Producing realizations of supersymmetry through optimization
